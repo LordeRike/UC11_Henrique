@@ -1,0 +1,7 @@
+=== SUÍTE DE REGRESSÃO: CALCULADORA DE FRETE ===
+Testes executados e todos funcionando
+    ? [PASSOU] Frete Comum <= 5kg
+    ? [PASSOU] Frete Comum > 5kg
+    ? [PASSOU] Frete Expresso <= 5kg
+    ? [PASSOU] Frete Expresso > 5kg
+    ? [PASSOU] Frete Expresso Gratis <= 0.5kg
